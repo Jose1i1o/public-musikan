@@ -1,0 +1,3 @@
+export const TRACK_REQUEST = 'TRACK_REQUEST'
+export const TRACK_DELETE = 'TRACK_DELETE'
+export const TRACK_RENDER = 'TRACK_RENDER'
